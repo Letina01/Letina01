@@ -1,10 +1,22 @@
-- 👋 Hi, I’m ANJALI SHAW
-- 👀 I’m interested in ...AIML
-- 🌱 I’m currently learning ...CSE BRANCH 3RD YEAR
-- 💞️ I’m looking to collaborate on ...OPEN SOURCE
-- 📫 How to reach me ...shaw89092@gmail.com
+## 👋 Hi, I’m Anjali Shaw
 
-<!---
-Letina01/Letina01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I’m a 4th-year Computer Science & Engineering student  
+☁️ I’m focused on Cloud Engineering and DevOps fundamentals  
+🌱 Currently learning Linux, AWS, Cloud Infrastructure, and system administration through hands-on practice  
+💞️ Open to collaborating on open-source and cloud-related projects  
+📫 Reach me at: **shaw89092@gmail.com**
+
+---
+
+### 🛠️ Skills & Interests
+- Cloud Computing (AWS – learning & hands-on)
+- Linux & System Administration
+- DevOps fundamentals
+- Shell scripting
+- Programming basics
+
+---
+
+### 🚀 Current Focus
+Building production-ready skills in Linux and Cloud by working on real-world scenarios, projects, and continuous practice.
+
